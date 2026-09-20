@@ -1,0 +1,18 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws Exception{
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for(int i = 0;i<=n;i++){
+            String word = sc.nextLine();
+            if(word.length() <= 10){
+                System.out.println(word);
+            }else{
+                System.out.println(word.charAt(0) + String.valueOf(word.length()-2)  + word.charAt(word.length()-1) );
+            }
+        }
+        sc.close();
+    }
+}
