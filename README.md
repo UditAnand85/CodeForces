@@ -66,7 +66,7 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 |---|---------|-------|------|--------|----------|
 | 1 | [2266A - Good Contest](https://codeforces.com/problemset/problem/2266/A) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391466107) |
 | 2 | [2266B - Three Piles](https://codeforces.com/problemset/problem/2266/B) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391477311) |
-| 3 | [2266E - Prime Destruction](https://codeforces.com/problemset/problem/2266/E) | TBD | — | ❌ Attempted (Runtime Error) | — |
+
 
 
 | Topic | Count |
