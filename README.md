@@ -6,7 +6,7 @@
 
 | Rating | Solved | Target |
 |--------|--------|--------|
-| 800    | 8      | 30     |
+| 800    | 11     | 30     |
 | 900    | 0      | 30     |
 | 1000   | 1      | 30     |
 | 1100   | 0      | 30     |
@@ -29,6 +29,9 @@
 | 6 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | Greedy, Math | 20 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/50/submission/391336788) |
 | 7 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Sortings, Greedy, Strings | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/339/submission/392149061) |
 | 8 | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/112/submission/392145407) |
+| 9 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings, Implementation | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/236/submission/392308930) |
+| 10 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Brute Force, Implementation | 27 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/791/submission/392310196) |
+| 11 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | Greedy, Math | 27 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/617/submission/392313690) |
 
 ### 900 Rating
 
@@ -66,16 +69,18 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 |---|---------|-------|------|--------|----------|
 | 1 | [2266A - Good Contest](https://codeforces.com/problemset/problem/2266/A) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391466107) |
 | 2 | [2266B - Three Piles](https://codeforces.com/problemset/problem/2266/B) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391477311) |
-| 3 | [2266E - Prime Destruction](https://codeforces.com/problemset/problem/2266/E) | TBD | — | ❌ Attempted (Runtime Error) | — |
+| 3 | [2269A - SauSaGe Bank](https://codeforces.com/problemset/problem/2269/A) | TBD | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2269/submission/392240975) |
 
+
+## Solved by Topic
 
 | Topic | Count |
 |-------|-------|
-| Brute Force | 2 |
-| Math | 2 |
-| Greedy | 2 |
-| Strings | 3 |
-| Implementation | 3 |
+| Brute Force | 3 |
+| Math | 3 |
+| Greedy | 3 |
+| Strings | 4 |
+| Implementation | 5 |
 | Sortings | 1 |
 
 ---
@@ -86,4 +91,5 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 |------|-----------------|
 | 20 Sep 2026 | 6 |
 | 21 Sep 2026 | 2 (+1 attempted) |
-| 26 Sep 2026 | 3 (+2 WA/RE attempts on 339A/263A) |
+| 26 Sep 2026 | 4 |
+| 27 Sep 2026 | 2 |
