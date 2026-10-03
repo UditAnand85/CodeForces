@@ -6,9 +6,9 @@
 
 | Rating | Solved | Target |
 |--------|--------|--------|
-| 800    | 11     | 30     |
+| 800    | 13     | 30     |
 | 900    | 0      | 30     |
-| 1000   | 1      | 30     |
+| 1000   | 2      | 30     |
 | 1100   | 0      | 30     |
 | 1200   | 0      | 20     |
 | 1300   | 0      | 20     |
@@ -32,6 +32,8 @@
 | 9 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings, Implementation | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/236/submission/392308930) |
 | 10 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Brute Force, Implementation | 27 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/791/submission/392310196) |
 | 11 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | Greedy, Math | 27 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/617/submission/392313690) |
+| 12 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | Implementation | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/266/submission/393048140) |
+| 13 | [1520A - Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A) | Implementation, Strings | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1520/submission/393050946) |
 
 ### 900 Rating
 
@@ -43,6 +45,7 @@
 | # | Problem | Topic | Date | Status | Solution |
 |---|---------|-------|------|--------|----------|
 | 1 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Implementation | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/263/submission/392144589) |
+| 2 | [118A - String Task](https://codeforces.com/problemset/problem/118/A) | Implementation, Strings | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/118/submission/393047040) |
 
 ### 1100 Rating
 
@@ -79,8 +82,8 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | Brute Force | 3 |
 | Math | 3 |
 | Greedy | 3 |
-| Strings | 4 |
-| Implementation | 5 |
+| Strings | 6 |
+| Implementation | 8 |
 | Sortings | 1 |
 
 ---
@@ -93,3 +96,4 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | 21 Sep 2026 | 2 (+1 attempted) |
 | 26 Sep 2026 | 4 |
 | 27 Sep 2026 | 2 |
+| 03 Oct 2026 | 3 |
