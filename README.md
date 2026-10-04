@@ -6,7 +6,7 @@
 
 | Rating | Solved | Target |
 |--------|--------|--------|
-| 800    | 13     | 30     |
+| 800    | 16     | 30     |
 | 900    | 0      | 30     |
 | 1000   | 2      | 30     |
 | 1100   | 0      | 30     |
@@ -34,6 +34,9 @@
 | 11 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | Greedy, Math | 27 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/617/submission/392313690) |
 | 12 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | Implementation | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/266/submission/393048140) |
 | 13 | [1520A - Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A) | Implementation, Strings | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1520/submission/393050946) |
+| 14 | [1367A - Short Substrings](https://codeforces.com/problemset/problem/1367/A) | Implementation, Strings | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1367/submission/393145508) |
+| 15 | [1462A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | Constructive Algorithms, Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1462/submission/393149685) |
+| 16 | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1512/submission/393151248) |
 
 ### 900 Rating
 
@@ -82,9 +85,10 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | Brute Force | 3 |
 | Math | 3 |
 | Greedy | 3 |
-| Strings | 6 |
-| Implementation | 8 |
+| Strings | 7 |
+| Implementation | 11 |
 | Sortings | 1 |
+| Constructive Algorithms | 1 |
 
 ---
 
@@ -97,3 +101,4 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | 26 Sep 2026 | 4 |
 | 27 Sep 2026 | 2 |
 | 03 Oct 2026 | 3 |
+| 04 Oct 2026 | 3 |
