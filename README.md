@@ -6,9 +6,9 @@
 
 | Rating | Solved | Target |
 |--------|--------|--------|
-| 800    | 16     | 30     |
+| 800    | 18     | 30     |
 | 900    | 0      | 30     |
-| 1000   | 2      | 30     |
+| 1000   | 3      | 30     |
 | 1100   | 0      | 30     |
 | 1200   | 0      | 20     |
 | 1300   | 0      | 20     |
@@ -37,6 +37,8 @@
 | 14 | [1367A - Short Substrings](https://codeforces.com/problemset/problem/1367/A) | Implementation, Strings | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1367/submission/393145508) |
 | 15 | [1462A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | Constructive Algorithms, Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1462/submission/393149685) |
 | 16 | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1512/submission/393151248) |
+| 17 | [14A - Letter](https://codeforces.com/problemset/problem/14/A) | Implementation, Strings | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/14/submission/394263833) |
+| 18 | [6A - Triangle](https://codeforces.com/problemset/problem/6/A) | Math, Implementation, Geometry | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/6/submission/394265865) |
 
 ### 900 Rating
 
@@ -49,6 +51,7 @@
 |---|---------|-------|------|--------|----------|
 | 1 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Implementation | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/263/submission/392144589) |
 | 2 | [118A - String Task](https://codeforces.com/problemset/problem/118/A) | Implementation, Strings | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/118/submission/393047040) |
+| 3 | [1A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Math | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1/submission/394272213) |
 
 ### 1100 Rating
 
@@ -67,15 +70,17 @@
 
 ---
 
-## Recent / Not Yet Rated
+## Contest Questions
 
-Codeforces hasn't published official difficulty ratings for these yet (usually added a few days after a round). Move them into the tables above once rated.
+Problems solved directly during a live contest, before Codeforces has published their official difficulty rating. Move them into the rating tables above once rated.
 
 | # | Problem | Topic | Date | Status | Solution |
 |---|---------|-------|------|--------|----------|
 | 1 | [2266A - Good Contest](https://codeforces.com/problemset/problem/2266/A) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391466107) |
 | 2 | [2266B - Three Piles](https://codeforces.com/problemset/problem/2266/B) | TBD | 21 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2266/submission/391477311) |
 | 3 | [2269A - SauSaGe Bank](https://codeforces.com/problemset/problem/2269/A) | TBD | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2269/submission/392240975) |
+| 4 | [2275A - In Search of Convenience](https://codeforces.com/problemset/problem/2275/A) | TBD | 07 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2275/submission/393582488) |
+| 5 | [2275B - Did Not Go to Print](https://codeforces.com/problemset/problem/2275/B) | TBD | 07 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/2275/submission/393606701) |
 
 
 ## Solved by Topic
@@ -83,12 +88,13 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | Topic | Count |
 |-------|-------|
 | Brute Force | 3 |
-| Math | 3 |
+| Math | 5 |
 | Greedy | 3 |
-| Strings | 7 |
-| Implementation | 11 |
+| Strings | 8 |
+| Implementation | 13 |
 | Sortings | 1 |
 | Constructive Algorithms | 1 |
+| Geometry | 1 |
 
 ---
 
@@ -102,3 +108,5 @@ Codeforces hasn't published official difficulty ratings for these yet (usually a
 | 27 Sep 2026 | 2 |
 | 03 Oct 2026 | 3 |
 | 04 Oct 2026 | 3 |
+| 07 Oct 2026 | 2 |
+| 12 Oct 2026 | 3 |
