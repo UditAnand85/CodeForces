@@ -6,8 +6,8 @@
 
 | Rating | Solved | Target |
 |--------|--------|--------|
-| 800    | 18     | 30     |
-| 900    | 0      | 30     |
+| 800    | 17     | 30     |
+| 900    | 1      | 30     |
 | 1000   | 3      | 30     |
 | 1100   | 0      | 30     |
 | 1200   | 0      | 20     |
@@ -38,12 +38,12 @@
 | 15 | [1462A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | Constructive Algorithms, Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1462/submission/393149685) |
 | 16 | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | Implementation | 04 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1512/submission/393151248) |
 | 17 | [14A - Letter](https://codeforces.com/problemset/problem/14/A) | Implementation, Strings | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/14/submission/394263833) |
-| 18 | [6A - Triangle](https://codeforces.com/problemset/problem/6/A) | Math, Implementation, Geometry | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/6/submission/394265865) |
 
 ### 900 Rating
 
 | # | Problem | Topic | Date | Status | Solution |
 |---|---------|-------|------|--------|----------|
+| 1 | [6A - Triangle](https://codeforces.com/problemset/problem/6/A) | Math, Implementation, Geometry | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/6/submission/394265865) |
 
 ### 1000 Rating
 
