@@ -7,8 +7,8 @@
 | Rating | Solved | Target |
 |--------|--------|--------|
 | 800    | 17     | 30     |
-| 900    | 1      | 30     |
-| 1000   | 3      | 30     |
+| 900    | 2      | 30     |
+| 1000   | 4      | 30     |
 | 1100   | 0      | 30     |
 | 1200   | 0      | 20     |
 | 1300   | 0      | 20     |
@@ -44,6 +44,7 @@
 | # | Problem | Topic | Date | Status | Solution |
 |---|---------|-------|------|--------|----------|
 | 1 | [6A - Triangle](https://codeforces.com/problemset/problem/6/A) | Math, Implementation, Geometry | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/6/submission/394265865) |
+| 2 | [11A - Increasing Sequence](https://codeforces.com/problemset/problem/11/A) | Greedy | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/11/submission/394281690) |
 
 ### 1000 Rating
 
@@ -52,6 +53,7 @@
 | 1 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Implementation | 26 Sep 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/263/submission/392144589) |
 | 2 | [118A - String Task](https://codeforces.com/problemset/problem/118/A) | Implementation, Strings | 03 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/118/submission/393047040) |
 | 3 | [1A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Math | 12 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/1/submission/394272213) |
+| 4 | [3A - Shortest path of the king](https://codeforces.com/problemset/problem/3/A) | Implementation, Greedy | 14 Oct 2026 | ✅ Accepted | [Submission](https://codeforces.com/contest/3/submission/394440398) |
 
 ### 1100 Rating
 
@@ -88,10 +90,10 @@ Problems solved directly during a live contest, before Codeforces has published 
 | Topic | Count |
 |-------|-------|
 | Brute Force | 3 |
-| Math | 5 |
-| Greedy | 3 |
+| Math | 6 |
+| Greedy | 5 |
 | Strings | 8 |
-| Implementation | 13 |
+| Implementation | 14 |
 | Sortings | 1 |
 | Constructive Algorithms | 1 |
 | Geometry | 1 |
@@ -109,4 +111,5 @@ Problems solved directly during a live contest, before Codeforces has published 
 | 03 Oct 2026 | 3 |
 | 04 Oct 2026 | 3 |
 | 07 Oct 2026 | 2 |
-| 12 Oct 2026 | 3 |
+| 12 Oct 2026 | 4 |
+| 14 Oct 2026 | 1 |
